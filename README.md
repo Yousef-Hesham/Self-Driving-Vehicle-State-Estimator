@@ -17,7 +17,11 @@ The project is provided with a data set gathered during a test drive in the carl
 
 <img src="read_me_images/2.png">
 
+### 3.1 - Why ES-EKF?
+
 <img src="read_me_images/3.png">
+
+### 3.2 - Summary
 
 <img src="read_me_images/4.png">
 
